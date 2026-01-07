@@ -1,0 +1,13 @@
+.nav {
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 8px;
+}
+
+.nav.active {
+  background: #2563eb;
+  color: white;
+}
